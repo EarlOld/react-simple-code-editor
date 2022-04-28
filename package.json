@@ -1,5 +1,5 @@
 {
-  "name": "react-simple-code-editor",
+  "name": "@earlold/react-simple-code-editor",
   "version": "0.11.0",
   "description": "Simple no-frills code editor with syntax highlighting",
   "keywords": [
